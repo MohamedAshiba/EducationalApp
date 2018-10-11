@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Educational App</string>
+
+    <!-- numbers of Questions -->
+    <string name="math_quiz"> Math Quiz</string>
+    <string name="question_one">Question 1:</string>
+    <string name="question_two">Question 2:</string>
+    <string name="question_three">Question 3:</string>
+    <string name="question_four">Question 4:</string>
+    <string name="question_five">Question 5:   ( Smart )</string>
+
+    <!-- all questions in the Math quiz -->
+    <string name="add_question_one">Addition 90 and 50</string>
+    <string name="min_question_two">Minus 310 from 150</string>
+    <string name="milt_question_three">multiplication 75 by 20</string>
+    <string name="div_question_four">division 100 on 50</string>
+    <string name="smart_question_five">solve this: ( 35 + 15 - 5 * 10 )</string>
+
+</resources>
